@@ -1,1 +1,142 @@
-20241023.json
+[
+  {
+    "name": "Julia",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "false",
+    "description": "High-performance, dynamic programming language for technical computing, solving the two-language problem."
+  },
+  {
+    "name": "Node.js",
+    "ring": "adopt",
+    "quadrant": "languages & frameworks",
+    "isNew": "false",
+    "description": "JavaScript runtime that enables server-side scripting and building fast, scalable network applications."
+  },
+  {
+    "name": "Makie.jl",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "false",
+    "description": "Visualization library in Julia for interactive data visualization and real-time graphics, key for Tul.jl."
+  },
+  {
+    "name": "DataFrames.jl",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "false",
+    "description": "Package for working with tabular data in Julia, essential for OptiX.jl."
+  },
+  {
+    "name": "RigidBodyDynamics.jl",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "true",
+    "description": "Library for multibody dynamics with a focus on human biomechanics, highly relevant for Tul.jl."
+  },
+  {
+    "name": "DifferentialEquations.jl",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "false",
+    "description": "Powerful suite for solving differential equations, key for biomechanical modeling in Tul.jl."
+  },
+  {
+    "name": "MarketData.jl",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "false",
+    "description": "Julia package for handling historical and real-time financial data, used in OptiX.jl."
+  },
+  {
+    "name": "OnlineStats.jl",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "false",
+    "description": "For computing streaming statistics on large datasets in OptiX.jl."
+  },
+  {
+    "name": "Docker",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "false",
+    "description": "Containerization tool for consistent and portable environments."
+  },
+  {
+    "name": "PostgreSQL",
+    "ring": "adopt",
+    "quadrant": "data storage",
+    "isNew": "false",
+    "description": "Relational database system for handling large amounts of financial data in OptiX.jl."
+  },
+  {
+    "name": "Obsidian",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "false",
+    "description": "Markdown-based knowledge management tool for organizing research and project notes."
+  },
+  {
+    "name": "Emacs",
+    "ring": "adopt",
+    "quadrant": "tools",
+    "isNew": "false",
+    "description": "Versatile text editor for coding, note-taking, and project management."
+  },
+  {
+    "name": "WebGLMakie",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "true",
+    "description": "Browser-based visualization framework for rendering interactive biomechanical models in Tul.jl."
+  },
+  {
+    "name": "Dagger.jl",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "true",
+    "description": "Parallel computing framework for distributed workloads, useful for both Tul.jl and OptiX.jl."
+  },
+  {
+    "name": "Puppeteer",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "false",
+    "description": "Automation library for web scraping and testing in Node.js, useful for data gathering."
+  },
+  {
+    "name": "ModelingToolkit.jl",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "true",
+    "description": "A Julia-based modeling framework for building and analyzing systems of equations, potentially useful for biomechanics in Tul.jl."
+  },
+  {
+    "name": "Rust",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "true",
+    "description": "Memory-safe systems programming language, useful for performance-critical tasks or real-time constraints in biomechanical simulations."
+  },
+  {
+    "name": "C++",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "false",
+    "description": "Low-level language for fine-grained performance control, useful for real-time physics simulations in Tul.jl."
+  },
+  {
+    "name": "Plots.jl",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "true",
+    "description": "A high-level plotting library in Julia, to explore alternative visualization strategies for OptiX.jl."
+  },
+  {
+    "name": "Flux.jl",
+    "ring": "assess",
+    "quadrant": "tools",
+    "isNew": "true",
+    "description": "Machine learning library in Julia, useful for experimenting with predictive models in OptiX.jl."
+  }
+]
