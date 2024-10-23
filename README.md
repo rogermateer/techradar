@@ -1,1 +1,1 @@
-The latest version of my personal tech radar is [here](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Frogermateer%2Ftechradar%2Frefs%2Fheads%2Fmain%2Flatest.json)
+The latest version of my personal tech radar is [here](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Frogermateer%2Ftechradar%2Frefs%2Fheads%2Fmain%2F20241023.json)
